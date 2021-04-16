@@ -2,7 +2,7 @@
 - 👀 I’m interested in  aprender sobre o mundo Java
 - 🌱 I’m currently learning sobre Servlet e Spring MVC
 - 💞️ I’m looking to collaborate no meu desenvolvimento e crescimento profissional
-- 📫 How to reach me - (11) 920032417 (WhatsApp) ou dyane.aaraujo@gmail.com
+- 📫 How to reach me - dyane.aaraujo@gmail.com
 
 <!---
 DyaneAndrade/DyaneAndrade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
