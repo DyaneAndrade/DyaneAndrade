@@ -1,6 +1,6 @@
 <h1>Olá, me chamo Dyane 👋:</h1>
 </hr>
-Back-end | Software Developer ❤️ (Em progresso) </br>
+Back-end | Software Developer ❤️ (Em progresso) </br> </br>
 
 💼 Atualmente estou trabalhando como Desenvolvedora Java Jr. </br>
 👨‍💻 Formada na Universidade Paulista - UNIP em 2022. </br>
