@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @DyaneAndrade
-- 👀 I’m interested in  aprender sobre o mundo Java
-- 🌱 I’m currently learning sobre Servlet e Spring MVC
-- 💞️ I’m looking to collaborate no meu desenvolvimento e crescimento profissional
-- 📫 How to reach me - dyane.aaraujo@gmail.com
+Olá, me chamo Dyane 👋:
+</hr>
+Back-end | Software Developer ❤️ (Em progresso)
 
-<!---
-DyaneAndrade/DyaneAndrade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💼 Atualmente estou trabalhando como Desenvolvedora Java Jr.
+👨‍💻 Formada na Universidade Paulista - UNIP em 2022
+📌 Este perfil era utilizado para estudos e projetos da faculdade.
+
+🌱 Meu Github atual: https://github.com/MulherMarav.
+📫 Como entrar em contato comigo: e-mail: dyane.aaraujo@gmail.com
+
