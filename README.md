@@ -6,5 +6,5 @@ Back-end | Software Developer ❤️ (Em progresso) </br> </br>
 📌 Este perfil era utilizado para estudos e projetos da faculdade. </br>
 
 🌱 Meu Github atual: https://github.com/MulherMarav. </br>
-📫 Como entrar em contato comigo: e-mail: dyane.aaraujo@gmail.com. 
+📫 Como entrar em contato comigo: dyane.aaraujo@gmail.com. 
 
