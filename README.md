@@ -2,8 +2,7 @@
 </hr>
 Back-end | Software Developer ❤️ (Em progresso) </br> </br>
 
-💼 Atualmente estou trabalhando como Desenvolvedora Java Jr. </br>
-👨‍💻 Formada na Universidade Paulista - UNIP em 2022. </br>
+👨‍💻 Sou Desenvolvedora Java Jr. </br>
 📌 Este perfil era utilizado para estudos e projetos da faculdade. </br>
 
 🌱 Meu Github atual: https://github.com/MulherMarav. </br>
